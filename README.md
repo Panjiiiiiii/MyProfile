@@ -1,4 +1,4 @@
-# Hello I am Joel 💫
+# Hello I am Panjoel 💫
 
 <img src="https://github-readme-stats.vercel.app/api?username=Panjiiiiiii&show_icons=true&theme=tokyonight"/>
 
