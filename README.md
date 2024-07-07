@@ -8,7 +8,7 @@
 
  ❤️ Still loving **myself**
 
- ⚡ Passionate to study at **PKN STAN**
+ ⚡ Passionate to study at **BINUS UNIVERSTIY**
 
 </div>
 
@@ -31,7 +31,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Panjiiiiiii&show_icons=true&theme=tokyonight"/>
 <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panjiiiiiii&layout=donut&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panjiiiiiii&layout=line&theme=tokyonight"/>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
