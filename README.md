@@ -31,7 +31,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Panjiiiiiii&show_icons=true&theme=tokyonight"/>
 <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panjiiiiiii&layout=compact&theme=tokyonight&hide=php,html,java"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panjiiiiiii&layout=compact&theme=tokyonight&hide=html,hack,mdx"/>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
